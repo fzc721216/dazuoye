@@ -1,0 +1,9 @@
+# ninja log v5
+8	1210	7041124176985081	CMakeFiles/work.dir/BlueHeadQuarter.cpp.obj	96567bcab77cf766
+4	50	7040953917150712	CMakeFiles/work.dir/Arms.cpp.obj	af0da2bd303dc379
+0	152	7063406172515148	build.ninja	69d5bfa2e4d640a3
+3	913	7040959140854410	CMakeFiles/test.dir/test/test.cpp.obj	76abe971ee920d83
+1093	1506	7041139209853488	work.exe	cecdcc5a6a30a997
+913	1021	7040959141919494	test.exe	c1408811ea8d2eb7
+4	1093	7041139205772572	CMakeFiles/work.dir/main.cpp.obj	aeafc65c936fd707
+3	1129	7041130140130245	CMakeFiles/work.dir/RedHeadQuarter.cpp.obj	a5df5eed5c69ecb3
